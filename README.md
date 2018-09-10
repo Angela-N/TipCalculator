@@ -8,10 +8,6 @@ Time spent: **3** hours spent in total
 
 ## User Stories
 
-I had an error on the final tip calculation part.
-I failed to upload everything to github
-
-
 
 The following **required** functionality is complete:
 
@@ -42,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2018] [Angela Nayiga]
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
