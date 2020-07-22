@@ -4,7 +4,7 @@
 
 Submitted by: **Angela Nayiga**
 
-Time spent: **3** hours spent in total
+Time spent: Mad long! (unnecessarily.. probaly a waking day.. was trying to figure stuff out) :P
 
 ## User Stories
 
